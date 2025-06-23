@@ -892,6 +892,7 @@ figcaption {
   .text-box,
   .image-box {
     max-width: 100%;
+    height: auto;
   }
 
   .image-box img {
